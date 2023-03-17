@@ -1,8 +1,9 @@
-xserver-xorg-video-intel (2:2.99.917+git20210115-1+u001) UNRELEASED; urgency=medium
+xserver-xorg-video-intel (2:2.99.917+git20210115-1deepin) unstable; urgency=medium
 
   * update
+  * 
 
- -- Debian X Strike Force <debian-x@lists.debian.org>  Tue, 21 Jun 2022 18:15:43 +0800
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 10:29:07 +0800
 
 xserver-xorg-video-intel (2:2.99.917+git20210115-1) unstable; urgency=medium
 
